@@ -23,7 +23,7 @@ viajar("prueba");
 
 function puedeManejar(edad){
     if (edad >= 18 ){
-            console.log(true):
+            console.log(true);
     } else {
         console.log(false);
     }
